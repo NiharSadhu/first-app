@@ -6,7 +6,7 @@ import { HousingLocationComponent } from './housing-location/housing-location.co
   selector: 'app-root',
   standalone: true,
   imports: [
-                HomeComponent, HousingLocationComponent,
+                HomeComponent, HousingLocationComponent
             ],
   template: `
             <main>
